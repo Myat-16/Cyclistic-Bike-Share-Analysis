@@ -1,4 +1,4 @@
-# Cyclistic-Bike-Share-Analysis
+# Project Name: Cyclistic-Bike-Share-Analysis
 ## Data Source - https://www.kaggle.com/datasets/gunnarn/chicago-bicycle-rent-usage
 ## Business Impact
 1. Tracking daily rides enables dynamic driver deployment, reducing wait times 25% during peaks.
@@ -20,7 +20,7 @@
 5. Docked bikes experienced the largest percentage drop, while electric bikes remained relatively stable with only a slight decrease.
 
 
-####  Approaches 
+####  Approaches Details
 I utilized the public Kaggle dataset to explore ride trends and user behavior.
 1. Cleaned and processed millions of rows in Python
 2. Aggregated and visualized results in Excel, building an interactive dashboard for deep analysis
