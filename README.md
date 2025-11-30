@@ -1,10 +1,10 @@
 # Project Name: Cyclistic-Bike-Share-Analysis
 ## Data Source - https://www.kaggle.com/datasets/gunnarn/chicago-bicycle-rent-usage
 ## Business Impact
-1. Tracking daily rides enables dynamic driver deployment, reducing wait times 25% during peaks.
-2. Analyzing daily rides by users identifies power users, boosting repeat rides 30%.
-3. Understanding monthly rides by rideable types optimizes fleet allocation, cutting costs 22%.
-4. Monitoring weekly rides schedules promotions, lifting weekend revenue 35%
+1. Tracking daily rides enables dynamic driver deployment, reducing wait times during peaks.
+2. Analyzing daily rides by users identifies power users, boosting repeat rides.
+3. Understanding monthly rides by rideable types optimizes fleet allocation.
+4. Monitoring weekly rides schedules promotions, lifting weekend revenue.
 ### Insights for April to June
 1. 1.36M total rides; the dominate month was June with over 600k rides 
 2. Classic bikes hit over 70% of trips
