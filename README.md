@@ -24,3 +24,8 @@
 I utilized the public Kaggle dataset to explore ride trends and user behavior.
 1. Cleaned and processed millions of rows in Python
 2. Aggregated and visualized results in Excel, building an interactive dashboard for deep analysis
+
+<img width="1189" height="656" alt="image" src="https://github.com/user-attachments/assets/3a029345-6979-4ad9-bf0e-bfb9f85338f2" />
+
+
+<img width="1017" height="613" alt="image" src="https://github.com/user-attachments/assets/68742c5d-948b-455c-891c-cc8cca0aa95a" />
